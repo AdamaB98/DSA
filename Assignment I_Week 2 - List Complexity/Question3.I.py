@@ -1,5 +1,6 @@
 lst = [1, 4, 7, 3]
-# print(max(lst))
+
+# printing the maximum value in the list
 maxi = lst[0]
 for i in lst:
    if i > maxi:
