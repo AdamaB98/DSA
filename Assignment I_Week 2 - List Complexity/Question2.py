@@ -1,6 +1,6 @@
 from memory_profiler import *
 import numpy
-# we will find the memory space of our function in python
+# Finding and displaying the memory used by each line code of our algorithm
 
 
 @profile
@@ -14,7 +14,7 @@ def memory():
     pass
 
 
-# print(memory())
+# printing the memory
 if __name__ == "__main__":
     memory()
 
