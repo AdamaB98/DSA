@@ -1,4 +1,5 @@
 import timeit
+#Import time package to estimate the time taken by algorithms to run
 
 def mytime():
    myList = []
